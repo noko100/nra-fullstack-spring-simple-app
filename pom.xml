@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nra.fullstack</groupId>
-	<artifactId>nra-fullstack-simple-app</artifactId>
+	<artifactId>nra-fullstack-spring-simple-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>nra-fullstack-simple-app</name>
 	<description>Demo project for Spring Boot</description>
